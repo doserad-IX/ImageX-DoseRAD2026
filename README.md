@@ -1,2 +1,1 @@
-# ImageX-DoseRAD2026
-Code from the Image X Institute team for the DoseRAD2026 grand challenge.
+# Please go to https://github.com/Image-X-Institute/DoseRAD2026_BEAM3R to access the code.
